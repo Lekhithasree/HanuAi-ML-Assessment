@@ -1,0 +1,6 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+Hanuai_task2_assignment*.csv
